@@ -1,12 +1,12 @@
 # Loan-Default-Prediction 
 ML project to predict loan default risk using Machine Learning
 
-## 📌 Project Overview
+## Project Overview
 This project aims to predict whether a customer will default on a loan using machine learning techniques. The model helps identify high-risk and low-risk customers for better lending decisions.
 
 ---
 
-## 📊 Dataset
+## Dataset
 The dataset includes customer details such as:
 - Age
 - Income
@@ -17,7 +17,7 @@ The dataset includes customer details such as:
 
 ---
 
-## ⚙️ Models Used
+##  Models Used
 - Logistic Regression
 - Decision Tree
 - Random Forest (Best Model)
@@ -31,14 +31,14 @@ To classify customers into:
 
 ---
 
-## 📈 Model Performance
+## Model Performance
 - Logistic Regression: 83.7%
 - Decision Tree: 88.5%
 - Random Forest: 93.0% (Best)
 
 ---
 
-## 🔢 Prediction Results
+## Prediction Results
 - Low Risk Customers (0): 5450
 - High Risk Customers (1): 1067
 
